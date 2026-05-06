@@ -1,6 +1,6 @@
 # USB-hub
 ## Description
-<img width="400" height="250" alt="USB Hub Front" src="images/Front.png"><img width="400" height="250" alt="USB Hub Back" src="images/Back.png">
+<img width="400" height="250" alt="USB Hub Front" src="images/Front.png">  <img width="400" height="250" alt="USB Hub Back" src="images/Back.png">
 It's a USB hub that can be conected through a USB type-C port, expanding one USB entrance to four, two USB type-A and two USB type-C.
 I added my favorite Sanrio characters (My Melody, Kuromi and Cinnamoroll) to make is look cuter ^o^
 (This is my first PCB project, i followed Macondo's (Hackclub) guide to build it :D)
