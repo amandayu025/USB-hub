@@ -9,8 +9,9 @@ I added my favorite Sanrio characters (My Melody, Kuromi and Cinnamoroll) to mak
 
 ## Components
 <img width="800" height="500" alt="USB Hub" src="images/Schematic.png">
-1 SL2.1S from CoreChips
-3 USB-C
-2 USB-A
-6 5.1K resistors
+
+1 SL2.1S from CoreChips <br>
+3 USB-C <br>
+2 USB-A <br>
+6 5.1K resistors <br>
 11 capacitors (8 of the 1uF type and 3 of the 100nF)
